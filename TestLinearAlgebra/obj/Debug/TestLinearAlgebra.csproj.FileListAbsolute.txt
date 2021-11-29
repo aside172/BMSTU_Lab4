@@ -1,6 +1,0 @@
-C:\projects\lab3\TestLinearAlgebra\bin\Debug\TestLinearAlgebra.dll
-C:\projects\lab3\TestLinearAlgebra\bin\Debug\TestLinearAlgebra.pdb
-C:\projects\lab3\TestLinearAlgebra\obj\Debug\TestLinearAlgebra.csproj.AssemblyReference.cache
-C:\projects\lab3\TestLinearAlgebra\obj\Debug\TestLinearAlgebra.csproj.CoreCompileInputs.cache
-C:\projects\lab3\TestLinearAlgebra\obj\Debug\TestLinearAlgebra.dll
-C:\projects\lab3\TestLinearAlgebra\obj\Debug\TestLinearAlgebra.pdb
